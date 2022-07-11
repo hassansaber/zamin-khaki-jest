@@ -1,0 +1,27 @@
+{
+  "name": "zamin-khaki-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassansaber/zamin-khaki-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hassansaber/zamin-khaki-jest/issues"
+  },
+  "homepage": "https://github.com/hassansaber/zamin-khaki-jest#readme",
+  "devDependencies": {
+    "@types/jest": "^28.1.4",
+    "jest": "^28.1.2"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
